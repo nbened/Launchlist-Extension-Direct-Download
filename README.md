@@ -1,5 +1,5 @@
 # Welcome, Favorite Beta Tester
-Here's how you install the extension directly:
+Here's how you install the extension directly
 
 ### Steps
 1. Download the dist.zip
