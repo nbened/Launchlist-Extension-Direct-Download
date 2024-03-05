@@ -1,2 +1,5 @@
-# launchlist_public_extension
-Used as a circumvention of chrome store while waiting approval for beta users.
+# Welcome, Favorite Beta Tester
+Here's how you install the extension directly:
+
+### Step 1
+- ds
