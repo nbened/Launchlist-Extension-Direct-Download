@@ -2,4 +2,4 @@
 Here's how you install the extension directly:
 
 ### Step 1
-- ds
+- 
