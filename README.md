@@ -8,6 +8,6 @@ Here's how you install the extension directly:
 4. Enable 'Developer mode'
 5. Click 'Load Unpacked' and select your unzipped folder
 6. Press the reset button so the service worker is not inactive.
-7. Press the toolbar icon, enter your username, press set, and done!
+7. Press the toolbar icon, enter your username, connect, and done!
 
 Now directory votes can be verified and you can stay up to date from Twitter.
