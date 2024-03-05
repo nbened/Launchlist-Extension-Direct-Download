@@ -11,3 +11,5 @@ Here's how you install the extension directly
 7. Press the toolbar icon, enter your username, connect, and done!
 
 Now directory votes can be verified and you can stay up to date from Twitter.
+
+Launchlist will only stop showing the extension reminder when you complete step 7.
