@@ -4,8 +4,8 @@ Here's how you install the extension directly
 ### Steps
 1. Download the dist.zip
 2. Extract the dist.zip on your machine
-3. Type in chrome://extensions in the search bar.
-4. Enable 'Developer mode'
+3. Type in 'chrome://extensions' in the search bar.
+4. Enable 'Developer mode' in the top right toggle.
 5. Click 'Load Unpacked' and select your unzipped folder
 6. Press the reset button so the service worker is not inactive ("errors" are totally fine)
 7. Return to Launchlist
