@@ -1,10 +1,11 @@
 # Welcome, Favorite User
 (You're seeing this because the chrome store is processing an update and taking their sweet time)
-Here's how you install the extension directly
+
+Here's how you install the extension directly in the meantime
 
 ### Steps
 1. Download the dist.zip
-2. Extract the dist.zip on your machine
+2. Extract the dist.zip
 3. Type in 'chrome://extensions' in the search bar.
 4. Enable 'Developer mode' in the top right toggle.
 5. Click 'Load Unpacked' in the top left and select your unzipped folder
