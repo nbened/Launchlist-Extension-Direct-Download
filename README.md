@@ -1,4 +1,5 @@
-# Welcome, Favorite Beta Tester
+# Welcome, Favorite User
+(You're seeing this because the chrome store is processing an update and taking their sweet time)
 Here's how you install the extension directly
 
 ### Steps
